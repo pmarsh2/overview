@@ -19,7 +19,7 @@ subcollection: overview
 # Service Level Agreements (SLAs)
 {: #slas} 
 
-{{site.data.keyword.Bluemix}} provides a 99.95% availability service level for multiple instances of a platform service within a public environment.
+{{site.data.keyword.Bluemix}} provides a 99.99% availability service level for multiple instances of a platform service within a public environment.
 {: shortdesc}
 
 {{site.data.keyword.Bluemix_notm}} provides SLAs for {{site.data.keyword.Bluemix_notm}} services that might make you eligible for credits toward your account. SLAs are your only way to resolve {{site.data.keyword.Bluemix_notm}}'s failure to meet a specified service level. 
@@ -36,8 +36,8 @@ You're eligible for a credit toward your account if you experience availability 
 | Type	                                     | Description	      | Support Details|
 |--------------------------------------------|--------------------|----------------|
 | High availability for a public environment | Other Environments | Credit         |
-| <99.99%                                    |<99.5%              |10%             |
-| <99.90%                                    |<99.0%              |25%             |
+| <99.99%                                    |<99.9%              |10%             |
+| <99.9%                                    |<99.0%              |25%             |
 {: caption="Table 1. Monthly availability service level" caption-side="top"}
 
 Availability percentage is calculated as the total number of minutes that are in a contracted month, minus the total number of downtime minutes in that month divided by the total number of minutes in that month. 
